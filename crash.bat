@@ -1,6 +1,7 @@
 rem @ThatZiv 
 @echo off
 :crash
-  start gn.exe
+  start 
+  start www.youtube.com
   echo bye bye
 goto crash
